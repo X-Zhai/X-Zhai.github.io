@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://X-Zhai.github.io/xiangyuzhai.jpg" class="floatpic" width="360" height="480">
+<img src="https://X-Zhai.github.io/xiangyuzhai.png" class="floatpic" width="360" height="260">
 
 Here is **X Zhai**.
 
