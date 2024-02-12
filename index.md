@@ -5,14 +5,12 @@ layout: page
 ## About Me
 
 Here is **X Zhai**.
+<br>
+
+
+
 
 <img src="https://X-Zhai.github.io/xiangyuzhai.png" class="floatpic" width="360" height="260">
-
-
-
-
-
-
 
 ## Education
 
