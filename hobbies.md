@@ -7,17 +7,7 @@ title: Hobbies
 # Hobbies
 
 ## Eating
-
-
-
-<br>I am living for eating. 
-
-## My Cat
-
-
-
-
-
+I am living for eating. 
 <br>
 
 
